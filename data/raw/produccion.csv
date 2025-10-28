@@ -1,0 +1,1 @@
+pedido_ID,linea_ID,fecha,hora_inicio_preparacion,hora_fin_preparacion,id_plato,id_insumo,cantidad_insumo,unidad,id_lote,id_ubicacion,responsable,tiempo_total,estado_pedido,desperdicio_registrado,observaciones

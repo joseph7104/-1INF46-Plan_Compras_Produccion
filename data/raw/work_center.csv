@@ -1,0 +1,6 @@
+work_center_id,work_center_name,tipo,linea,min_disp_dia,unidades_paralelas,eficiencia
+WC_SARTEN,Sartén,Estacion,Caliente,480,2,0.9
+WC_PLANCHA,Plancha,Estacion,Caliente,480,1,0.9
+WC_HORNO,Horno,Equipo,Caliente,480,1,0.9
+WC_TABLA,Tabla,Estacion,Fria,480,2,0.92
+WC_EMPLATE,Emplatado,Estacion,General,480,2,0.95

@@ -1,0 +1,13 @@
+id_plan,fecha,id_plato,Ventas_hist,Proyección_demanda,Platos_planificados,Insumos_a_comprar_estimado,Cobertura_días,Lotes_por_vencer_7d,Bloqueo_por_capacidad,Costos_proyectados,Costos_reales
+1,2026-01-01,1,25.64,25.64,25.64,(calculado en detalle),,,False,,
+2,2026-01-01,2,23.0,23.0,23.0,(calculado en detalle),,,False,,
+3,2026-01-01,3,17.79,17.79,17.79,(calculado en detalle),,,False,,
+4,2026-01-01,4,19.21,19.21,19.21,(calculado en detalle),,,False,,
+5,2026-01-01,5,14.86,14.86,14.86,(calculado en detalle),,,False,,
+6,2026-01-01,6,11.86,11.86,11.86,(calculado en detalle),,,False,,
+7,2026-01-01,7,7.29,7.29,7.29,(calculado en detalle),,,False,,
+8,2026-01-01,8,8.07,8.07,8.07,(calculado en detalle),,,False,,
+9,2026-01-01,9,5.93,5.93,5.93,(calculado en detalle),,,False,,
+10,2026-01-01,10,5.64,5.64,5.64,(calculado en detalle),,,False,,
+11,2026-01-01,11,3.57,3.57,3.57,(calculado en detalle),,,False,,
+12,2026-01-01,12,3.29,3.29,3.29,(calculado en detalle),,,False,,

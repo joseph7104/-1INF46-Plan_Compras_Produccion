@@ -1,0 +1,25 @@
+item_id,item_name,op_seq,work_center_id,work_center_name,etapa,run_time_min_por_unidad,setup_time_min
+1,Lomo Saltado,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+1,Lomo Saltado,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+2,Pollo a la Brasa,10,WC_HORNO,Horno,Horneado,6.0,5.0
+2,Pollo a la Brasa,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+3,Ceviche Clásico,10,WC_TABLA,Tabla,Mise en place,1.5,0.5
+3,Ceviche Clásico,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+4,Arroz Chaufa,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+4,Arroz Chaufa,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+5,Tallarines Verdes,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+5,Tallarines Verdes,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+6,Ají de Gallina,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+6,Ají de Gallina,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+7,Anticuchos,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+7,Anticuchos,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+8,Seco de Res,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+8,Seco de Res,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+9,Causa Limeña,10,WC_TABLA,Tabla,Mise en place,1.5,0.5
+9,Causa Limeña,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+10,Papa a la Huancaína,10,WC_TABLA,Tabla,Mise en place,1.5,0.5
+10,Papa a la Huancaína,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+11,Chicharrón de Pescado,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+11,Chicharrón de Pescado,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2
+12,Sopa Criolla,10,WC_SARTEN,Sartén,Salteado/Cocción,3.5,2.0
+12,Sopa Criolla,20,WC_EMPLATE,Emplatado,Emplatado,0.8,0.2

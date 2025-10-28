@@ -1,0 +1,25 @@
+item_id,item_name,work_center_id,work_center_name,run_time_min_por_unidad,std_hours_per_unit
+1,Lomo Saltado,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+1,Lomo Saltado,WC_SARTEN,Sartén,3.5,0.058333333333333334
+2,Pollo a la Brasa,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+2,Pollo a la Brasa,WC_HORNO,Horno,6.0,0.1
+3,Ceviche Clásico,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+3,Ceviche Clásico,WC_TABLA,Tabla,1.5,0.025
+4,Arroz Chaufa,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+4,Arroz Chaufa,WC_SARTEN,Sartén,3.5,0.058333333333333334
+5,Tallarines Verdes,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+5,Tallarines Verdes,WC_SARTEN,Sartén,3.5,0.058333333333333334
+6,Ají de Gallina,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+6,Ají de Gallina,WC_SARTEN,Sartén,3.5,0.058333333333333334
+7,Anticuchos,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+7,Anticuchos,WC_SARTEN,Sartén,3.5,0.058333333333333334
+8,Seco de Res,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+8,Seco de Res,WC_SARTEN,Sartén,3.5,0.058333333333333334
+9,Causa Limeña,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+9,Causa Limeña,WC_TABLA,Tabla,1.5,0.025
+10,Papa a la Huancaína,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+10,Papa a la Huancaína,WC_TABLA,Tabla,1.5,0.025
+11,Chicharrón de Pescado,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+11,Chicharrón de Pescado,WC_SARTEN,Sartén,3.5,0.058333333333333334
+12,Sopa Criolla,WC_EMPLATE,Emplatado,0.8,0.013333333333333334
+12,Sopa Criolla,WC_SARTEN,Sartén,3.5,0.058333333333333334
