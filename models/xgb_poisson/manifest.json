@@ -1,5 +1,5 @@
 {
-    "fecha_export": "2025-11-06 12:33:44",
+    "fecha_export": "2025-11-12 02:07:20",
     "modelo_tipo": "XGBoost_Poisson_por_plato",
     "models": {
         "1": "booster_plato_1.json",
