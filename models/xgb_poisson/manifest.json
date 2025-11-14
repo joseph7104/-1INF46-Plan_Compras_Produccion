@@ -1,5 +1,5 @@
 {
-    "fecha_export": "2025-11-12 02:07:20",
+    "fecha_export": "2025-11-14 08:24:28",
     "modelo_tipo": "XGBoost_Poisson_por_plato",
     "models": {
         "1": "booster_plato_1.json",
@@ -10,8 +10,7 @@
         "6": "booster_plato_6.json",
         "7": "booster_plato_7.json",
         "8": "booster_plato_8.json",
-        "9": "booster_plato_9.json",
-        "10": "booster_plato_10.json"
+        "9": "booster_plato_9.json"
     },
     "best_iters": {
         "1": -1,
@@ -22,7 +21,6 @@
         "6": -1,
         "7": -1,
         "8": -1,
-        "9": -1,
-        "10": -1
+        "9": -1
     }
 }
