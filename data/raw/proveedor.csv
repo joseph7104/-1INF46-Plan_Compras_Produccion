@@ -1,8 +1,7 @@
 id_proveedor,nombre_proveedor,ruc,telefono,email,tipo,distrito,numero_contacto
-6903,Mayorista La Parada,51327160322,908572227,contacto6903@proveedor.pe,Mayorista,Lima,908572227
-2658,Pesquera San Pedro,67455943964,977370414,contacto2658@proveedor.pe,Mayorista,Lima,977370414
-8616,Avícola Surquillo,06487281647,908451322,contacto8616@proveedor.pe,Mayorista,Lima,908451322
-591,Mercado Central,09214609239,964798400,contacto591@proveedor.pe,Mayorista,Lima,964798400
-4952,Hortalizas Rimac,45247878908,970480320,contacto4952@proveedor.pe,Mayorista,Lima,970480320
-9356,Lácteos Andinos,29163960470,944651026,contacto9356@proveedor.pe,Mayorista,Lima,944651026
-787,Huevos Villa,30142551138,970908904,contacto787@proveedor.pe,Mayorista,Lima,970908904
+6770,Pesquera San Pedro,77590094966,976374828,contacto6770@proveedor.pe,Mayorista,Lima,976374828
+6687,Huevos Villa,22180749133,918317300,contacto6687@proveedor.pe,Mayorista,Lima,918317300
+3403,Mercado Central,50153515660,931457527,contacto3403@proveedor.pe,Mayorista,Lima,931457527
+9187,Avícola Surquillo,14974298810,945354111,contacto9187@proveedor.pe,Mayorista,Lima,945354111
+6673,Hortalizas Rimac,00033099929,952466436,contacto6673@proveedor.pe,Mayorista,Lima,952466436
+1168,Mayorista La Parada,63115993384,959730630,contacto1168@proveedor.pe,Mayorista,Lima,959730630
