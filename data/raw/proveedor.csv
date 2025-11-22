@@ -1,7 +1,11 @@
 id_proveedor,nombre_proveedor,ruc,telefono,email,tipo,distrito,numero_contacto
-6864,Pesquera San Pedro,77590094966,976374828,contacto6864@proveedor.pe,Mayorista,Lima,976374828
-3575,Huevos Villa,22180749133,918317300,contacto3575@proveedor.pe,Mayorista,Lima,918317300
-7239,Mercado Central,50153515660,931457527,contacto7239@proveedor.pe,Mayorista,Lima,931457527
-4029,Avícola Surquillo,14974298810,945354111,contacto4029@proveedor.pe,Mayorista,Lima,945354111
-5118,Hortalizas Rimac,00033099929,952466436,contacto5118@proveedor.pe,Mayorista,Lima,952466436
-4335,Mayorista La Parada,63115993384,959730630,contacto4335@proveedor.pe,Mayorista,Lima,959730630
+1,Hortalizas Rimac A,11846650721,950722831,contact@hortalizasrimaca.com,Especializado,Miraflores,929957181
+2,Lácteos Andinos B,72310757475,915907854,contact@lácteosandinosb.com,Local,Miraflores,998417483
+3,Pesquera San Pedro C,02653954607,986772423,contact@pesquerasanpedroc.com,Mayorista,Pueblo Libre,940463190
+4,Avícola Surquillo D,00785553136,978796352,contact@avícolasurquillod.com,Especializado,Magdalena del Mar,921837588
+5,Frutas Frescas E,66098217330,985416072,contact@frutasfrescase.com,Mayorista,Magdalena del Mar,933775001
+6,Frutas Frescas F,00446425316,955329029,contact@frutasfrescasf.com,Local,La Molina,921441525
+7,Lácteos Andinos G,08009855741,903868908,contact@lácteosandinosg.com,Local,Pueblo Libre,955333315
+8,Avícola Surquillo H,51739611211,970964556,contact@avícolasurquilloh.com,Especializado,San Borja,939344675
+9,Lácteos Andinos I,53408088654,957848634,contact@lácteosandinosi.com,Local,Miraflores,948890607
+10,Distribuidora Gourmet J,56393760633,953289610,contact@distribuidoragourmetj.com,Especializado,Santiago de Surco,993661705

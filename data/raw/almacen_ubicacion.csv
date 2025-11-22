@@ -1,5 +1,5 @@
-id_ubicacion,id_almacen,codigo,capacidad_kg,espacio_usado_kg,estado
-1,1,SECO-A1,400.0,0.0,Activa
-2,1,SECO-A2,400.0,0.0,Activa
-3,1,FRIO-F1,300.0,0.0,Activa
-4,1,FRIO-F2,300.0,0.0,Activa
+id_ubicacion,id_almacen,codigo,capacidad_kg,espacio_usado_kg,estado,Capacidad_usada_%
+1,1,SECO-A1,600.0,188.99322478670047,Activa,31.49887079778341
+2,1,SECO-A2,1600.0,71.17423885823234,Activa,4.448389928639521
+3,1,FRIO-F1,300.0,63.325504330430576,Activa,21.10850144347686
+4,1,FRIO-F2,300.0,60.440595394764784,Activa,20.146865131588264
